@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP-ICAP Assessment_John_Inyang", "TP-ICAP Assessment_John_Inyang\TP-ICAP Assessment_John_Inyang.csproj", "{8708CC10-2A8E-4FE1-9C4E-3E033C84CBB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP-ICAP-Test", "TP-ICAP-Test\TP-ICAP-Test.csproj", "{067264AB-4505-4449-8CE6-AE0E52C23E4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP-ICAP-Domain", "TP-ICAP-Domain\TP-ICAP-Domain.csproj", "{D58180C1-FC4C-44B0-9EB9-5D26C0A4C725}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6F746E92-7F8B-4A26-9595-82CD8FC1637F}"
+	ProjectSection(SolutionItems) = preProject
+		ReadmeAnswers.md = ReadmeAnswers.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8708CC10-2A8E-4FE1-9C4E-3E033C84CBB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8708CC10-2A8E-4FE1-9C4E-3E033C84CBB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8708CC10-2A8E-4FE1-9C4E-3E033C84CBB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8708CC10-2A8E-4FE1-9C4E-3E033C84CBB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{067264AB-4505-4449-8CE6-AE0E52C23E4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067264AB-4505-4449-8CE6-AE0E52C23E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067264AB-4505-4449-8CE6-AE0E52C23E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067264AB-4505-4449-8CE6-AE0E52C23E4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D58180C1-FC4C-44B0-9EB9-5D26C0A4C725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D58180C1-FC4C-44B0-9EB9-5D26C0A4C725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D58180C1-FC4C-44B0-9EB9-5D26C0A4C725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D58180C1-FC4C-44B0-9EB9-5D26C0A4C725}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B2637F3-50AA-4F30-BD33-BB13CE1C19E0}
+	EndGlobalSection
+EndGlobal
